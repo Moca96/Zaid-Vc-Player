@@ -81,7 +81,7 @@
 <p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/ITZ-ZAID/Zaid-Vc-Player"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 > Click on buttons below to expand and  detailed explanation process. !
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 <details>
     <summary><b> Detailed Heroku Depoyment Process » </b></summary>
